@@ -2,8 +2,8 @@
 
 export const jinrokhGuide = {
   boss: "Jin'rokh the Breaker",
-  videoUrl: "https://www.youtube.com/watch?v=VIDEO_ID",
-  videoId: "VIDEO_ID",
+  videoUrl: "https://www.youtube.com/watch?v=QvQF1bA4r9g",
+  videoId: "QvQF1bA4r9g",
   guide: [
     {
       phase: "Introduction & Setup",
